@@ -92,5 +92,3 @@ npm run dev
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-Developed by Dedy Van Hauten
